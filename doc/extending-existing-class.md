@@ -1,6 +1,6 @@
 # How to Extend an Existing Class
 
-## Overview
+## Overview (Brief)
 
 This document provides an example of how to extend the `Cloud` object, which is indirectly used in the `Base Event` class. The `Base Event` class has an `Event Origin` (`origin`) attribute, which has an instance of the `Cloud` object (`cloud`). The simplified `Base Event` class definition looks like:
 
